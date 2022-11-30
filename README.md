@@ -1,1 +1,1 @@
-# Numpy_task & Hypothesis-Chi-square-test-
+# Numpy_task & Hypothesis(Chi-square test)
